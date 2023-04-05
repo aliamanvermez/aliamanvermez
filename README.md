@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chillingirz" target="blank"><img src="https://img.shields.io/twitter/follow/chillingirz?logo=twitter&style=for-the-badge" alt="chillingirz" /></a> </p>
 
-- 🔭 I’m currently working on [Rick and Morty Project](https://github.com/aliamanvermez/ios-swift-RickAndMorty)
+- 🔭 I’m currently working on [Best of IMDb's](https://github.com/aliamanvermez/ios-swift-best-of-imdbs-mvvm)
 
 - 🌱 I’m currently learning **Swift, Objective-C**
 
