@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliamanvermez" alt="aliamanvermez" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chillingirz" target="blank"><img src="https://img.shields.io/twitter/follow/chillingirz?logo=twitter&style=for-the-badge" alt="chillingirz" /></a> </p>
 
 - 🔭 I’m currently working on [Best of IMDb's](https://github.com/aliamanvermez/ios-swift-best-of-imdbs-mvvm)
 
