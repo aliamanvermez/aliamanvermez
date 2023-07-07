@@ -6,8 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliamanvermez" alt="aliamanvermez" /></a> </p>
 
 
-- 🔭 I’m currently working on [Best of IMDb's](https://github.com/aliamanvermez/ios-swift-best-of-imdbs-mvvm)
-
 - 🌱 I’m currently learning **Swift, Objective-C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aliamanvermez](https://github.com/aliamanvermez)
